@@ -3,9 +3,12 @@ Here are some of my projects created using spreadsheets.
 
 ## Google Sheets
 01 - [Filter and Sort](https://docs.google.com/spreadsheets/d/1cNCKev61OK8ZgljakS7jtpLAByFS0M6XV5RJEXLphBg/edit?gid=151074853#gid=151074853)
+- User can filter Performance and Gender.
+- User can sort salary (low-high) by checkbox ticking.
 ![image](https://github.com/Warasineesines/Spreadsheets/assets/153973331/27d5395d-f874-46e3-8e64-b3e37e0b37e9)
 
 02 - [Conditional Format by row](https://docs.google.com/spreadsheets/d/1cNCKev61OK8ZgljakS7jtpLAByFS0M6XV5RJEXLphBg/edit?gid=101149468#gid=101149468)
+- User can tick Promote column and that row will turn to blue color.
 ![image](https://github.com/Warasineesines/Spreadsheets/assets/153973331/43da081d-2d1e-436c-966e-6843af9a8fb5)
 
 03 - [Write Dynamic Query](https://docs.google.com/spreadsheets/d/1cNCKev61OK8ZgljakS7jtpLAByFS0M6XV5RJEXLphBg/edit?gid=1981431105#gid=1981431105)
